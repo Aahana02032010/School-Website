@@ -1,0 +1,35 @@
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#firstp {
+    text-align: center;
+}
+
+firimg {
+    text-align: align: center;
+}
+#phone{
+    width: 30px;
+    height: 30px;
+}
+#email{
+    width: 30px;
+    height: 30px;
+}
+#location{
+    width: 20px;
+    height: 30px;
+}
+#princy{
+    width: 30px;
+    height: 30px;
+}
+
